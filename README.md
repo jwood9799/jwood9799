@@ -5,7 +5,7 @@
 ### Hey there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Jason. I'm a DevOps/Automation Engineer. I love working with Terraform. I have three certifications; Linux Essentials, AWS Certified Developer Associate, and HashiCorp Terraform. I'm currently working towards being certified in HashiCorp Vault.
+My name is Jason. I'm a DevOps and Automation Engineer. I love working with Terraform. I have three certifications; Linux Essentials, AWS Certified Developer Associate, and HashiCorp Terraform. I'm currently working towards being certified in HashiCorp Vault.
 
 Find out more about me & feel free to connect with me here:
 
