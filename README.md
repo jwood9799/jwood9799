@@ -2,7 +2,10 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hey there 👋
+- 👋 Hi, I’m @jwood9799
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning HashiCorp Vault
+- 📫 How to reach me jwood9799@gmail.com
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 My name is Jason. I'm a DevOps and Automation Engineer. I love working with Terraform. I have three certifications; Linux Essentials, AWS Certified Developer Associate, and HashiCorp Terraform. I'm currently working towards being certified in HashiCorp Vault. I'd love to connect and collaborate with you! 
