@@ -3,12 +3,12 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
 - 👋 Hi, I’m @jwood9799
-- 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning HashiCorp Vault
-- 📫 How to reach me jwood9799@gmail.com
+- 👀 I’m looking for a team to join!
+- 🌱 Currently I'm studying for the HashiCorp Vault Associate and AWS SAA Associate
+- 📫 Reach me at jwood9799@gmail.com
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Jason. I'm a DevOps and Automation Engineer. I love working with Terraform. I have three certifications; Linux Essentials, AWS Certified Developer Associate, and HashiCorp Terraform. I'm currently working towards being certified in HashiCorp Vault. I'd love to connect and collaborate with you! 
+My name is Jason. I'm a DevOps and Automation Engineer. I love working with Terraform and AWS. I have a bunch of hands on work documented here https://medium.com/@jwood9799 including doing fun stuff like ordering Domino's using Terraform. I have three certifications; Linux Essentials, AWS Certified Developer Associate, and HashiCorp Terraform. I'd love to connect and collaborate with you! 
 
 Find out more about me & feel free to connect with me here:
 
