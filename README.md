@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @jwood9799
 - 👀 I’m looking for a team to join!
-- 🌱 Currently I'm studying for the HashiCorp Vault Associate and AWS SAA Associate
+- 🌱 Currently I'm studying for the HashiCorp Vault Associate and AWS Solutions Architect Associate
 - 📫 Reach me at jwood9799@gmail.com
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
